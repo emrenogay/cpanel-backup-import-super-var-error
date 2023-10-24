@@ -9,8 +9,7 @@ Note: It was written for WordPress websites and takes its database information f
 # How to run
 **At your own risk!**
 
-    wget 
-    https://raw.githubusercontent.com/emrenogay/cpanel-backup-import-super-var-error/main/script.sh
+    wget https://raw.githubusercontent.com/emrenogay/cpanel-backup-import-super-var-error/main/script.sh
     chmod +x script.sh
     ./script.sh
 
