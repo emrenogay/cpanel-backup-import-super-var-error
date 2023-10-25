@@ -7,7 +7,6 @@ If you get an error like "“MySQL” database “db_name”: 1227 (Access denie
 Note: It was written for WordPress websites and takes its database information from the wp-config.php file.
 
 # How to run
-**At your own risk!**
 **Before run, add your MySQL root password to script.sh**
 
     wget https://raw.githubusercontent.com/emrenogay/cpanel-backup-import-super-var-error/main/script.sh
